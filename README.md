@@ -12,6 +12,7 @@ A machine learning-based system that classifies songs by mood using Spotify audi
 ## Models
 - Logistic Regression
 - Decision Tree
+- Random Forest
 
 ## Author
 Jasmine Sharpe
